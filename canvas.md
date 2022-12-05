@@ -14,7 +14,7 @@
 > 线
 
 * ctx.beginPath() 开始一个路径
-* ctx.moveTo()    移动画笔到某点
+* ctx.moveTo()    将一个新的子路径的起始点移动到 (x，y) 坐标
 * ctx.lineTo()    
   让路径中`拥有`(并不会直接绘制)一条到某点的线
 * ctx.rect()
